@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Throughout my 12-week internship at **AWS Cloud Clubs Vietnam** (from **September 8, 2025** to **December 8, 2025**), I experienced an engaging and in-depth learning journey in Amazon Web Services and cloud computing technologies. This was an excellent opportunity for me to transform theoretical knowledge from university lectures into practical skills in a real cloud computing environment.
+Throughout my 12-week internship at **AWS Cloud Clubs Vietnam** (from **September 8, 2025** to **December 12, 2025**), I experienced an engaging and in-depth learning journey in Amazon Web Services and cloud computing technologies. This was an excellent opportunity for me to transform theoretical knowledge from university lectures into practical skills in a real cloud computing environment.
 
 **Main Activities I Accomplished:**
 

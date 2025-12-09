@@ -5,7 +5,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt 12 tuần thực tập tại **AWS Cloud Clubs Vietnam** (từ **08/09/2025** đến **08/12/2025**), em đã trải nghiệm một hành trình học tập đầy thú vị và chuyên sâu về Amazon Web Services và công nghệ điện toán đám mây. Đây là cơ hội tuyệt vời để em chuyển hóa kiến thức lý thuyết từ giảng đường đại học thành các kỹ năng thực hành trong môi trường cloud computing thực tế.
+Trong suốt 12 tuần thực tập tại **AWS Cloud Clubs Vietnam** (từ **08/09/2025** đến **12/12/2025**), em đã trải nghiệm một hành trình học tập đầy thú vị và chuyên sâu về Amazon Web Services và công nghệ điện toán đám mây. Đây là cơ hội tuyệt vời để em chuyển hóa kiến thức lý thuyết từ giảng đường đại học thành các kỹ năng thực hành trong môi trường cloud computing thực tế.
 
 **Những hoạt động chính em đã thực hiện:**
 

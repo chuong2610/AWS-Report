@@ -9,6 +9,8 @@ pre: " <b> 2. </b> "
 # The EV Station-based Rental System
 ## Electric Vehicle Rental and Return Software at Fixed Stations – A Green Mobility Solution for Smart Cities
 
+📄 **[View Full Proposal Document](https://docs.google.com/document/d/1VeR7Leu9Yq4LMlgPcfKtcE0IfO-K-DO4fgaWR8af7t0/edit?tab=t.0)**
+
 ### 1. Executive Summary
 The EV Station-based Rental System is developed to provide an all-in-one platform for electric vehicle rental and charging management. It integrates real-time rental, payment, and charging station access through a unified cloud-native solution. The system features a React Native mobile app and a Spring Boot backend deployed on AWS ECS Fargate, with PostgreSQL (RDS) and Redis (ElastiCache) for data and caching. User authentication is managed via Amazon Cognito, and global delivery is optimized using CloudFront. Designed under the AWS Well-Architected Framework, the platform ensures scalability, high availability, and security while maintaining cost efficiency.
 
@@ -124,7 +126,7 @@ This budget estimate is based on the provided AWS architecture diagram and the "
     - Amazon ElastiCache Serverless: ~$10.00/month (Minimal usage).
     - Amazon CloudWatch: $0.00/month (Stays within 5GB log Always Free tier).
     - Amazon ECR: ~$0.10/month (Minimal storage over 500MB free tier).
-
+    
 Total: ~$86.42/month, ~$1,037.04/12 months
 
 
@@ -168,3 +170,4 @@ Total: ~$86.42/month, ~$1,037.04/12 months
 - Increased fleet utilization rate by 30% through data-driven scheduling.
 - Improved accuracy of rental records and payment reconciliation.
 - Enhanced user satisfaction via seamless booking and transparent billing.
+
