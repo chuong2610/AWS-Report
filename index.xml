@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Internship Report</title><link>https://chuong2610.github.io/AWS-Report/</link><description>Recent content on Internship Report</description><generator>Hugo</generator><language>en</language><atom:link href="https://chuong2610.github.io/AWS-Report/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://chuong2610.github.io/AWS-Report/content/content/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chuong2610.github.io/AWS-Report/content/content/</guid><description>&lt;p>&lt;img alt="alt text" src="image.png">
+&lt;img alt="alt text" src="image-1.png">
+&lt;img alt="alt text" src="image-2.png">
+&lt;img alt="alt text" src="image-3.png">
+&lt;img alt="alt text" src="image-4.png">
+&lt;img alt="alt text" src="image-5.png">
+&lt;img alt="alt text" src="image-6.png">
+&lt;img alt="alt text" src="image-7.png">
+&lt;img alt="alt text" src="image-8.png">
+&lt;img alt="alt text" src="image-9.png">
+&lt;img alt="alt text" src="image-10.png">
+&lt;img alt="alt text" src="image-11.png">
+&lt;img alt="alt text" src="image-12.png">&lt;/p>
+&lt;h1 id="ev-rental-ai-agent---hướng-dẫn-triển-khai">EV Rental AI Agent - Hướng dẫn triển khai&lt;/h1>
+&lt;h2 id="-tổng-quan">📖 Tổng quan&lt;/h2>
+&lt;h3 id="giới-thiệu">Giới thiệu&lt;/h3>
+&lt;p>&lt;strong>EV Rental AI Agent&lt;/strong> là một chatbot thông minh được xây dựng để hỗ trợ khách hàng trong hệ thống cho thuê xe điện VinFast. Agent sử dụng AI để:&lt;/p>
+&lt;ul>
+&lt;li>Trả lời câu hỏi tự nhiên bằng tiếng Việt&lt;/li>
+&lt;li>Tự động tìm kiếm thông tin từ nhiều nguồn&lt;/li>
+&lt;li>Hiển thị dữ liệu dạng card trực quan trên giao diện chat&lt;/li>
+&lt;/ul>
+&lt;h3 id="công-nghệ-sử-dụng">Công nghệ sử dụng&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Thành phần&lt;/th>
+ &lt;th style="text-align: left">Công nghệ&lt;/th>
+ &lt;th style="text-align: left">Vai trò&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>AI Model&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">AWS Bedrock - Claude 3.5 Sonnet&lt;/td>
+ &lt;td style="text-align: left">Xử lý ngôn ngữ tự nhiên, sinh response&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Agent Framework&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">Strands Agent SDK&lt;/td>
+ &lt;td style="text-align: left">Tự động chọn và gọi tools phù hợp&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Backend API&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">FastAPI (Python)&lt;/td>
+ &lt;td style="text-align: left">REST API server&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Database&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">PostgreSQL&lt;/td>
+ &lt;td style="text-align: left">Lưu trữ chat history&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Frontend&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">React + Chakra UI&lt;/td>
+ &lt;td style="text-align: left">Giao diện người dùng&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>Knowledge Base&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">AWS Bedrock Knowledge Base&lt;/td>
+ &lt;td style="text-align: left">Lưu trữ tài liệu, chính sách, FAQ&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-chức-năng-chính">🎯 Chức năng chính&lt;/h2>
+&lt;h3 id="1-tìm-kiếm-thông-tin-từ-knowledge-base">1. &lt;strong>Tìm kiếm thông tin từ Knowledge Base&lt;/strong>&lt;/h3>
+&lt;p>&lt;strong>Khách hàng hỏi:&lt;/strong>&lt;/p></description></item><item><title/><link>https://chuong2610.github.io/AWS-Report/content/my_info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chuong2610.github.io/AWS-Report/content/my_info/</guid><description>&lt;p>Trần Ngọc Chương
+&lt;a href="mailto:chuongtnse181579@fpt.edu.vn">chuongtnse181579@fpt.edu.vn&lt;/a>
+0397812503
+FPT University
+Software Engineering
+Internship Company: Amazon Web Services Vietnam Co., Ltd.
+Internship Position: FCJ Cloud Intern
+Internship Duration: From 08/09/2025 to 24/12/2025&lt;/p></description></item></channel></rss>
